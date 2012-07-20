@@ -1,6 +1,6 @@
 https = require 'https'
 url = require 'url'
-_ = require 'underscore'
+_ = require 'lodash'
 fs = require 'fs'
 querystring = require 'querystring'
 
